@@ -26,7 +26,7 @@ I-am-egrus@github
 <h3>Projects I continue to work on...</h3>
 
 <a href="https://theeaglesclan.online" target="_blank">![WEBSITE](https://img.shields.io/badge/theeaglesclan.online-blue?style=for-the-badge)</a>
-<a target="_blank" href="https://discord.com/users/297762444434997249"><img alt="Discord" src="https://img.shields.io/badge/Rust | BetaProject%21-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a target="_blank" href="https://discord.com/users/297762444434997249"><img alt="Discord" src="https://img.shields.io/badge/Rust | AlphaProject%21-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://rustopic.com" target="_blank">![WEBSITE](https://img.shields.io/badge/Rustopic.com-blue?style=for-the-badge)</a>
   </div>  
 
