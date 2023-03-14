@@ -8,7 +8,7 @@ Hi, I'm Egrus!
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://pbs.twimg.com/media/EtjeYR0XEAQ_dUB?format=png&name=900x900" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" height="225" />
+<img align="left" src="https://pbs.twimg.com/media/EtjeYR0XEAQ_dUB?format=png&name=900x900" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="300" height="225" />
 <hr>
 
 ```
